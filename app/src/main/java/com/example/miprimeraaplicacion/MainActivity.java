@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         int edad = 3;
         String nombre="Juan";
-
+        boolean flag=true;
 
 
 
